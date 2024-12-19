@@ -1,0 +1,45 @@
+body {
+    background-image: url("background0.png");
+    background-color: #F9C846;
+    color: #F96E46;
+    font-weight: 900;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+button {
+    margin-bottom: 7px;
+    color: #F96E46;
+    width: 200px;
+    height: 100px;
+    background-color: #F9C846;
+    outline: none;
+    border-radius: 40px;
+    border-color: transparent;
+    box-shadow: 4px 4px 3px 3px blue;
+    font-weight: 900;
+}
+button:active {
+    box-shadow: 0px 0px 0px 0px;
+    margin-left:7px;
+    margin-top:7px;
+    border-color: black;
+    margin-bottom: 0px;
+}
+.cpsTestBtn{
+    width: 80%;
+    height: 500px;
+}
+header{
+    font-size: 400%;
+}
+nav {
+    background-color: #FFE3E3;
+    height: 100px;
+    padding:0px;
+    margin: 0px;
+}
+ul{
+    padding-top: 30px;
+}
